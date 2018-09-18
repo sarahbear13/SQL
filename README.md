@@ -1,2 +1,1 @@
-# SQL
-Exercises and class assignments.
+# SQL.
